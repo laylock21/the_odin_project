@@ -1,0 +1,23 @@
+:root {
+    title: #36454F;
+    boxone: #ff6347;
+    boxtwo: #89CFF0;
+    boxthree: #2E8B57;
+}
+
+#title {
+    color: var(title);
+}
+
+.one {
+    color: var(boxone);
+    border: 3px var(boxone);
+}
+
+.two {
+    color: var(boxtwo);
+}
+
+.three {
+    color: var(boxthree);
+}
